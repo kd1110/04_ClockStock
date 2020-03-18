@@ -1,1 +1,1 @@
-clock: python stock.python
+clock: python stock.py
